@@ -7,7 +7,7 @@ pipeline
         {
             steps
             {
-                git 'https://github.com/intelliqittrainings/maven.git'
+                git 'https://github.com/syed9977/multi-branch.git'
             }
         }
         stage('ContinuousBuild-Master')
